@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_facturastucarro" value="name:Id_cliente;datatype:int,name:Nombre;datatype:string,name:Identificacion;datatype:string,name:Direccion;datatype:string,name:Email;datatype:string,name:Telefono;datatype:string,name:Fecha;datatype:string,name:Factura;datatype:string,name:Tipocliente;datatype:string,name:Cantidad;datatype:string,name:Cantidad2;datatype:string,name:Cantidad3;datatype:string,name:Descripcion;datatype:string,name:Descripcion2;datatype:string,name:Descripcion3;datatype:string,name:PrecioUni;datatype:string,name:PrecipTotal;datatype:string,name:PrecioUni2;datatype:string,name:PrecioUni3;datatype:string,name:PrecioTotal2;datatype:string,name:PrecioTotal3;datatype:string,name:Precioletra;datatype:string,name:SubTotal;datatype:string,name:Iva;datatype:string,name:Total;datatype:string,name:Impreso;datatype:string,name:Estado;datatype:string" />
+</info>

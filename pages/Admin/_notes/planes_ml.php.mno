@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_planestucarro" value="name:Id_tarifa;datatype:int,name:Tipo;datatype:string,name:Valor_unitario;datatype:string,name:Precio_total;datatype:string,name:Subtotal;datatype:string,name:Iva;datatype:string,name:Total;datatype:string,name:Valor en letra;datatype:string,name:Descripcion_publicacion;datatype:string" />
+</info>
